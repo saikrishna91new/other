@@ -1,18 +1,16 @@
-Google cloud practitioner ( GCP/Azure/AWS) SRE
-Kubernetes ( CKA certified)
-Docker
+Google cloud practitioner ( GCP/Azure/AWS) SRE//-----------AWS -----------------------
+Kubernetes ( CKA certified) ----------------
+Docker -------------
 Helm
-Jenkins/Bamboo/Travis CI
-Ansible (CM tool)
-Terraform
+Jenkins/Bamboo/Travis CI  ---------Jenkins--------------
+Ansible (CM tool) -----------------
+Terraform --------------------
 ISTIO ( service mesh )
 Prometheus
 Splunk
 Grafana
 ELK
-UNIX/Shell Scripting
+UNIX/Shell Scripting ----------------------
 Hashicorp vault
 Nexus/Jfrog repository
 Spinnaker ( continous deployment tool)
-Shell scripting.
-CICD pipeline
