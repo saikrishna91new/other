@@ -1,7 +1,7 @@
-Google cloud practitioner ( GCP/Azure/AWS) SRE//-----------AWS -----------------------
+Google cloud practitioner ( GCP/Azure/AWS) SRE//-----------AWS -----------------------(assosiate level solutions architect)
 Kubernetes ( CKA certified) ----------------
 Docker -------------
-Helm
+Helm (basics) / Gitops (basics)
 Jenkins/Bamboo/Travis CI  ---------Jenkins--------------
 Ansible (CM tool) -----------------
 Terraform --------------------
@@ -9,7 +9,7 @@ ISTIO ( service mesh )
 Prometheus
 Splunk
 Grafana
-ELK
+ELK --------------------
 UNIX/Shell Scripting ----------------------
 Hashicorp vault
 Nexus/Jfrog repository
