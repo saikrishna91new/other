@@ -1,0 +1,11 @@
+AWS Network
+compliance, proximity, available servicees, pricing -- region choosing
+min:2 max:6 depends
+IAM- group -policy - user  
+role -policy - services
+policy json - version,id,statement(principle (acount), action, resource, statementid)
+IAM credential rport/ iam access advaisor
+Elastic compute cloud
+AMI(amazon machine image) - Instance type - instance details (no of instance, purchage option, vpc,subnet, public ip, placement group,capacity,Iam role, shutdown)
+- Storage -tags
+General purpose(t,m) , Compute optimised (c) <hpc, gaming, scintific), Memory Optimized (R)<db, high performance db>, storage optiized (i,D,H) <oltp, data ware house
